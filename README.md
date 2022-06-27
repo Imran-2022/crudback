@@ -12,6 +12,7 @@
 
 - Node js
 - Express js
+- MVC Architecture
 
 ##### DATABASE
 - MongoDB
